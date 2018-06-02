@@ -3,7 +3,7 @@
 
 
 ####API REST 
-- proyecto en PHP en dir /api/
+- proyecto en PHP en dir **/api/**
 
 ####Base de Datos
 - Dump de MySql **script_people_db.sql**
